@@ -1,3 +1,6 @@
+//MY 3rd SEMESTER PROJECT IN DSA SUBJECT IN DSA//
+//IMPLEMENT DSA CONCEPT STACK IN TRANSECTION HISTORY//
+
 #include <iostream>
 #include <string>
 #include <ctime>
